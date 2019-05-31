@@ -1,1 +1,1 @@
-## [C++ Russia 2019](C++%20Russia%202019)
+[C++ Russia 2019](C++%20Russia%202019)
