@@ -6,10 +6,10 @@ A couple of things about the C++ standard library implementation you might want 
 
 We'll discuss:
 
-how strengthened O(n log n) worst case complexity is guaranteed for std::sort;
-* when to use std::sort, std::stable_sort, std::partial_sort, std::nth_element;
-* when to use std::unordered_set/map and when std::set/map;
-* when to use std::vector and when std::list;
+* how strengthened O(n log n) worst case complexity is guaranteed for `std::sort`;
+* when to use `std::sort`, `std::stable_sort`, `std::partial_sort`, `std::nth_element`;
+* when to use `std::unordered_set`/`map` and when `std::set`/`map`;
+* when to use `std::vector` and when `std::list`;
 * how small string optimization (SSO) works.
 
 And other nuances of the C++ standard library implementation.
