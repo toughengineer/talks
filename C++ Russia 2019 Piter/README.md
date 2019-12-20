@@ -15,9 +15,9 @@ We'll discuss:
 And other nuances of the C++ standard library implementation.
 
 
-Description on the conference site:<br/>
-[https://cppconf-piter.ru/en/2019/spb/talks/2hszmavsupvfkuxtix5hxj/](https://cppconf-piter.ru/en/2019/spb/talks/2hszmavsupvfkuxtix5hxj/)<br/>
-(and [in Russian](https://cppconf-piter.ru/2019/spb/talks/2hszmavsupvfkuxtix5hxj/))
+Description on the conference site:  
+[https://2019.cppconf-piter.ru/&#8203;en/&#8203;2019/&#8203;spb/&#8203;talks/&#8203;2hszmavsupvfkuxtix5hxj/](https://2019.cppconf-piter.ru/en/2019/spb/talks/2hszmavsupvfkuxtix5hxj/)  
+(and [in Russian](https://2019.cppconf-piter.ru/2019/spb/talks/2hszmavsupvfkuxtix5hxj/))
 
 Slides:
 * [PDF](Insights%20into%20the%20C++%20standard%20library.pdf)
