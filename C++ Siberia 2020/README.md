@@ -9,6 +9,8 @@ But the deeper you dig, the more you think that something is fishy here...
 Universal initialization, `auto`, constructors, initialization of aggregate types with parentheses`()`...  
 We will try to sort out the details of all of that and figure out how to live with it.
 
+Video: [https://www.youtube.com/watch?v=2XsLJ34hzuU](https://www.youtube.com/watch?v=2XsLJ34hzuU) (in Russian)
+
 Description on the conference site (in Russian):  
 [https://siberia-2020.cppug.ru/&#8203;speakers/&#8203;novikov.html](https://siberia-2020.cppug.ru/speakers/novikov.html)
 
