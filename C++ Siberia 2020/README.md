@@ -1,6 +1,6 @@
 # C++ Siberia 2020
 
-## ``std::initializer_list`` &mdash; ~~epic~~ fail of design
+## `std::initializer_list` &mdash; ~~epic~~ fail of design
 
 It looks relatively simple on the surface:
 `std::initializer_list` is a lightweight wrapper around an array of elements built into the C++ language.
