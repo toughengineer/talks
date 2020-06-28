@@ -14,7 +14,7 @@ We'll discuss:
 
 And other nuances of the C++ standard library implementation.
 
-Video: [https://www.youtube.com/watch?v=2XsLJ34hzuU](https://www.youtube.com/watch?v=2XsLJ34hzuU) (in Russian)
+Video: [https://www.youtube.com/<wbr>watch?v=2XsLJ34hzuU](https://www.youtube.com/watch?v=2XsLJ34hzuU) (in Russian)
 
 Description on the conference site:  
 [https://2019.cppconf-piter.ru/<wbr>en/<wbr>2019/<wbr>spb/<wbr>talks/<wbr>2hszmavsupvfkuxtix5hxj/](https://2019.cppconf-piter.ru/en/2019/spb/talks/2hszmavsupvfkuxtix5hxj/)  
