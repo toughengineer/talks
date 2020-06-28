@@ -10,7 +10,7 @@ Universal initialization, `auto`, constructors, initialization of aggregate type
 We will try to sort out the details of all of that and figure out how to live with it.
 
 Description on the conference site (in Russian):  
-[https://siberia-2020.cppug.ru/&#8203;speakers/&#8203;novikov.html](https://siberia-2020.cppug.ru/speakers/novikov.html)
+[https://siberia-2020.cppug.ru/<wbr>speakers/<wbr>novikov.html](https://siberia-2020.cppug.ru/speakers/novikov.html)
 
 Slides:
 * [PDF](initializer_list%20-%20(epic)%20fail%20of%20design.pdf)

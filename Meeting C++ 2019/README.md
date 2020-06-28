@@ -7,7 +7,7 @@ Since C++11, the standard includes primitives for asynchronous tasks. Pavel will
 Video: [https://www.youtube.com/watch?v=r58DfZYEsVM](https://www.youtube.com/watch?v=r58DfZYEsVM)
 
 Description on the conference site:<br/>
-[https://meetingcpp.com/&#8203;2019/&#8203;Talks/&#8203;items/&#8203;Asynchronous_Cpp_programming.html](https://meetingcpp.com/2019/Talks/items/Asynchronous_Cpp_programming.html)
+[https://meetingcpp.com/<wbr>2019/<wbr>Talks/<wbr>items/<wbr>Asynchronous_Cpp_programming.html](https://meetingcpp.com/2019/Talks/items/Asynchronous_Cpp_programming.html)
 
 Slides:
 * [PDF](Asynchronous%20programming%20in%20C++.pdf)
