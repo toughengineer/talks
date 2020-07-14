@@ -1,6 +1,6 @@
 # C++ On Sea 2020
 
-## Serialization in C++ has never been easier! But wait, there's more...
+## Serialization in C++ has never been easier!<br/>But wait, there's more...
 
 Proposal [P1717](https://wg21.link/P1717) offers superpowers unparalleled to what we had before, even comparing to the most elaborate template metaprogramming techniques.
 
