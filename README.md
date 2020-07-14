@@ -1,3 +1,5 @@
+**[C++ On Sea 2020](C++%20On%20Sea%202020)** (Serialization in C++ has never been easier! But wait, there's more...)
+
 **[C++ Russia 2020 Moscow](C++%20Russia%202020%20Moscow)** (Understanding C++ coroutines by example)
 
 **[C++ Siberia 2020](C++%20Siberia%202020)** (`std::initialize_list` &mdash; ~~epic~~ fail of design)
