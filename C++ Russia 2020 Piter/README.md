@@ -1,6 +1,6 @@
 # C++ Russia 2020 Piter
 
-## Constructors and destructors: A few things you might want to know
+## Constructors and destructors:<br>A few things you might want to know
 
 It seems that in C++ there is nothing easier than constructor and destructor. But some interesting things can make your life better if you keep them in mind when you write code.
 
