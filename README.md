@@ -1,3 +1,5 @@
+**[C++ Siberia 2021](C++%20Siberia%202021)** (Making state machines with templates and coroutines)
+
 **[C++ Russia 2020 Piter](C++%20Russia%202020%20Piter)** (Constructors and destructors: A few things you might want to know)
 
 **[C++ On Sea 2020](C++%20On%20Sea%202020)** (Serialization in C++ has never been easier! But wait, there's more...)
