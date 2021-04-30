@@ -11,6 +11,8 @@ There are no standard means to represent state machines in C++, so (in addition 
 
 Along the way we'll examine several techniques that may be helpful in different situations not connected to state machines.
 
+Video: [https://www.youtube.com/<wbr>watch?v=UgdUVM_LH0w&<wbr>t=1291s](https://www.youtube.com/watch?v=UgdUVM_LH0w&t=1291s) (in Russian)
+
 Slides:
 * [PDF](Making%20state%20machines%20with%20templates%20and%20coroutines.pdf)
 * [PPTX](Making%20state%20machines%20with%20templates%20and%20coroutines.pptx)
