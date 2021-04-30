@@ -19,6 +19,8 @@ We will also discuss:
 
 and few other things.
 
+Video: [https://www.youtube.com/<wbr>watch?v=Z3Vngj1gC5A](https://www.youtube.com/watch?v=Z3Vngj1gC5A) (in Russian)
+
 Description on the conference site:  
 [https://cppconf-piter.ru/<wbr>en/<wbr>2020/<wbr>spb/<wbr>talks/<wbr>7ck44kbyl6kz6pzvnni8zo/](https://cppconf-piter.ru/en/2020/spb/talks/7ck44kbyl6kz6pzvnni8zo/)  
 (and [in Russian](https://cppconf-piter.ru/2020/spb/talks/7ck44kbyl6kz6pzvnni8zo/))
