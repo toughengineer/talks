@@ -1,6 +1,6 @@
 # C++ On Sea 2021
 
-## Fun with type erasure: exploring the design space of a value wrapper
+## Fun with type erasure:<br>exploring the design space of a value wrapper
 
 The goal of this talk is to get you familiar and comfortable with the basic implementation ins and outs of type erasure in C++.
 
