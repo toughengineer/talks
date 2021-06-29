@@ -1,4 +1,4 @@
-# C++ On Sea 2020
+# C++ on Sea 2020
 
 ## Serialization in C++ has never been easier!<br/>But wait, there's more...
 
