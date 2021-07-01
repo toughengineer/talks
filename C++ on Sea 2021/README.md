@@ -14,5 +14,5 @@ Description on the conference site:<br/>
 [https://cpponsea.uk/<wbr>2021/<wbr>sessions/<wbr>fun-with-type-erasure-implementing-a-value-wrapper-for-polymorphic-types.html](https://cpponsea.uk/2021/sessions/fun-with-type-erasure-implementing-a-value-wrapper-for-polymorphic-types.html)
 
 Slides:
-* [PDF](Fun%20with%20type%20erasure-implementing%20value%20wrapper%20for%20polymorphic%20types.pdf)
-* [PPTX](Fun%20with%20type%20erasure-implementing%20value%20wrapper%20for%20polymorphic%20types.pptx)
+* [PDF](Fun%20with%20type%20erasure-implementing%20a%20value%20wrapper%20for%20polymorphic%20types.pdf)
+* [PPTX](Fun%20with%20type%20erasure-implementing%20a%20value%20wrapper%20for%20polymorphic%20types.pptx)
