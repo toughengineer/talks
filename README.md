@@ -1,3 +1,5 @@
+**[C++ on Sea 2021](C++%20on%20Sea%202021)** (Fun with type erasure: implementing a value wrapper for polymorphic types)
+
 **[C++ Siberia 2021](C++%20Siberia%202021)** (Making state machines with templates and coroutines)
 
 **[C++ Russia 2020 Piter](C++%20Russia%202020%20Piter)** (Constructors and destructors: A few things you might want to know)
