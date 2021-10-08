@@ -22,8 +22,8 @@ and few other things.
 Video: [https://www.youtube.com/<wbr>watch?v=Z3Vngj1gC5A](https://www.youtube.com/watch?v=Z3Vngj1gC5A) (in Russian)
 
 Description on the conference site:  
-[https://cppconf-piter.ru/<wbr>en/<wbr>2020/<wbr>spb/<wbr>talks/<wbr>7ck44kbyl6kz6pzvnni8zo/](https://cppconf-piter.ru/en/2020/spb/talks/7ck44kbyl6kz6pzvnni8zo/)  
-(and [in Russian](https://cppconf-piter.ru/2020/spb/talks/7ck44kbyl6kz6pzvnni8zo/))
+[https://2020.cppconf-piter.ru/<wbr>en/<wbr>2020/<wbr>spb/<wbr>talks/<wbr>7ck44kbyl6kz6pzvnni8zo/](https://2020.cppconf-piter.ru/en/2020/spb/talks/7ck44kbyl6kz6pzvnni8zo/)  
+(and [in Russian](https://2020.cppconf-piter.ru/2020/spb/talks/7ck44kbyl6kz6pzvnni8zo/))
 
 Slides:
 * [PDF](Constructors%20and%20destructors-A%20few%20things%20you%20might%20want%20to%20know.pdf)
