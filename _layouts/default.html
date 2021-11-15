@@ -36,7 +36,7 @@
               {% endfor %}
               <a href="{{ nav_urls[0] | absolute_url }}">home</a>
               {% for item in nav_urls offset: 1 %}
-                | <a href="{{ item | absolute_url }}">{{ url_parts[forloop.index] }}</a>
+                | <a href="{{ item | absolute_url }}">{{ url_parts[forloop.index] | replace: '%20', '&nbsp;' }}</a>
               {% endfor %}
             {% endif %}
           </h2>
