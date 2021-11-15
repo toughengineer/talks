@@ -34,9 +34,9 @@
                   {% assign nav_urls = nav_urls | push: nav_url %}
                 {% endif %}
               {% endfor %}
-              <a href="{{ nav_urls[0] | absolute_url }}">home</a>
+              <a href="{{ nav_urls[0] | absolute_url }}" style="color:#efefef;">home</a>
               {% for item in nav_urls offset: 1 %}
-                | <a href="{{ item | absolute_url }}">{{ url_parts[forloop.index] | replace: '%20', '&nbsp;' }}</a>
+                | <a href="{{ item | absolute_url }}" style="color:#efefef;">{{ url_parts[forloop.index] | replace: '%20', '&nbsp;' }}</a>
               {% endfor %}
             {% endif %}
           </h2>
