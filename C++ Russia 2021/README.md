@@ -30,7 +30,7 @@ We want this magic more when the number of handlers with many parameters grows s
 In this talk, we will concentrate on type erasure to make a convenient and user-friendly way of organizing request handlers.  
 We will examine several approaches, their profit, how we can make it better, and what else we can do with it. Warning: there will be a lot of code.
 
-Demos are [here](demo.md).
+**Demos are [here](demo.md).**
 
 Description on the conference site:  
 [https://cppconf.ru/<wbr>en/<wbr>talks/<wbr>fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/](https://cppconf.ru/en/talks/fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/)  
