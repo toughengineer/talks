@@ -19,7 +19,9 @@
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 id="project_title">
+            <a href="{{ "/" | absolute_url }}" style="color: inherit;text-decoration: none;">{{ site.title | default: site.github.repository_name }}</a>
+          </h1>
           <h2 id="project_tagline">
             {% if page.url == "/" %}
               {{ site.description | default: site.github.project_tagline }}
@@ -30,7 +32,7 @@
               {% for item in url_parts %}
                 {% if forloop.last == false %}
                   {% assign nav_url_parts = nav_url_parts | push: item %}
-                  {% assign nav_url = nav_url_parts | join: "/" %}
+                  {% assign nav_url = nav_url_parts | join: "/" | append: "/" %}
                   {% assign nav_urls = nav_urls | push: nav_url %}
                 {% endif %}
               {% endfor %}
