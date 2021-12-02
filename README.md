@@ -1,3 +1,5 @@
+**[CPPP 2021](CPPP%202021)** (Constructors and destructors: A few things you might want to know)
+
 **[C++ Russia 2021](C++%20Russia%202021)** (Fun with type erasure + dispatching data from abstract structure to function parameters)
 
 **[C++ on Sea 2021](C++%20on%20Sea%202021)** (Fun with type erasure: implementing a value wrapper for polymorphic types)
