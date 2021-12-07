@@ -22,6 +22,6 @@ and few other things.
 Description on the conference site:\
 [https://cppp.fr/<wbr>schedule2021/<wbr>#session-110](https://cppp.fr/schedule2021/#session-110)
 
-Slides:
-* [PDF](Constructors%20and%20destructors-A%20few%20things%20you%20might%20want%20to%20know.pdf)
-* [PPTX](Constructors%20and%20destructors-A%20few%20things%20you%20might%20want%20to%20know.pptx)
+**Slides:**
+* **[PDF](Constructors%20and%20destructors-A%20few%20things%20you%20might%20want%20to%20know.pdf)**
+* **[PPTX](Constructors%20and%20destructors-A%20few%20things%20you%20might%20want%20to%20know.pptx)**
