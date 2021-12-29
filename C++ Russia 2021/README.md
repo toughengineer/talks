@@ -35,8 +35,8 @@ We will examine several approaches, their profit, how we can make it better, and
 **Video: [https://www.youtube.com/<wbr>watch?v=u4_JAn83FJQ](https://www.youtube.com/watch?v=u4_JAn83FJQ)**
 
 Description on the conference site:\
-[https://cppconf.ru/<wbr>en/<wbr>talks/<wbr>fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/](https://cppconf.ru/en/talks/fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/)\
-(and [in Russian](https://cppconf.ru/talks/fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/))
+[https://2021.cppconf.ru/<wbr>en/<wbr>talks/<wbr>fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/](https://2021.cppconf.ru/en/talks/fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/)\
+(and [in Russian](https://2021.cppconf.ru/talks/fun-with-type-erasure-dispatching-data-from-abstract-structure-to-function/))
 
 **Slides:**
 * **[PDF](Fun%20with%20type%20erasure+dispatching%20data%20from%20abstract%20structure%20to%20function%20parameters.pdf)**
