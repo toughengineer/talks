@@ -19,6 +19,8 @@ We will also discuss:
 
 and few other things.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=DB-c8a5tqQk](https://www.youtube.com/watch?v=DB-c8a5tqQk)**
+
 Description on the conference site:\
 [https://cppp.fr/<wbr>schedule2021/<wbr>#session-110](https://cppp.fr/schedule2021/#session-110)
 
