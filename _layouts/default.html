@@ -6,6 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if page.url != "/" -%}
+      <style>
+        .crumb {
+          color: #efefef;
+        }
+        
+        span.delimeter {
+          display: inline-block;
+          width: 1em;
+          text-align: center;
+          color: #808080;
+        }
+      </style>
+    {%- endif %}
 
 {% seo %}
   </head>
@@ -22,26 +36,41 @@
           <h1 id="project_title">
             <a href="{{ "/" | absolute_url }}" style="color: inherit;text-decoration: none;">{{ site.title | default: site.github.repository_name }}</a>
           </h1>
-          <h2 id="project_tagline">
-            {% if page.url == "/" %}
-              {{ site.description | default: site.github.project_tagline }}
-            {% else %}
-              {% assign url_parts = page.url | split: "/" %}
-              {% assign nav_url_parts = "" | split: "" %}
-              {% assign nav_urls = "" | split: "" %}
-              {% for item in url_parts %}
-                {% if forloop.last == false %}
-                  {% assign nav_url_parts = nav_url_parts | push: item %}
-                  {% assign nav_url = nav_url_parts | join: "/" | append: "/" %}
-                  {% assign nav_urls = nav_urls | push: nav_url %}
-                {% endif %}
-              {% endfor %}
-              <a href="{{ nav_urls[0] | absolute_url }}" style="color:#efefef;">home</a>
-              {% for item in nav_urls offset: 1 %}
-                | <a href="{{ item | absolute_url }}" style="color:#efefef;">{{ url_parts[forloop.index] | replace: '%20', '&nbsp;' }}</a>
-              {% endfor %}
-            {% endif %}
-          </h2>
+          {% if page.url == "/" -%}
+            <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          {%- else -%}
+            {% assign url_parts = page.url | split: "/" %}
+            {% assign nav_url_parts = "" | split: "" %}
+            {% assign nav_text_parts = "" | split: "" %}
+            {% assign nav_urls = "" | split: "" %}
+            {% assign nav_texts = "" | split: "" %}
+            {% for url_part in url_parts offset: 1 %}
+              {% if forloop.last == false %}
+                {% assign nav_url_parts = nav_url_parts | push: url_part %}
+                {% assign nav_url = nav_url_parts | join: "/" %}
+                {% assign nav_url = "/" | append: nav_url | append: "/" %}
+                {% assign nav_text_part = url_part | replace: '%20', ' ' %}
+                {% assign nav_text_parts = nav_text_parts | push: nav_text_part %}
+                {% for site_page in site.pages %}
+                  {% assign page_url = site_page.url | replace: '%20', ' ' %}
+                  {% assign target_url = nav_url | replace: '%20', ' ' %}
+                  {% if page_url == target_url %}
+                    {% assign nav_urls = nav_urls | push: nav_url %}
+                    {% assign nav_text = nav_text_parts | join: " | " %}
+                    {% assign nav_texts = nav_texts | push: nav_text %}
+                    {% assign nav_text_parts = "" | split: "" %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+            <h2 id="project_tagline">
+              <a href="{{ "/" | absolute_url }}" class="crumb">home</a>
+              {%- for nav_url in nav_urls -%}
+                <span class="delimeter">|</span><a href="{{ nav_url | absolute_url }}" class="crumb">{{ nav_texts[forloop.index0] }}</a>
+              {%- endfor %}
+            </h2>
+          {%- endif %}
 
           {% if site.show_downloads %}
             <section id="downloads">
