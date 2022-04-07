@@ -1,3 +1,5 @@
+**[ACCU 2022](2022/ACCU/)** (Fun with type erasure + dispatching data from abstract structure to function parameters in C++)
+
 **[CPPP 2021](CPPP%202021/)** (Constructors and destructors: A few things you might want to know)
 
 **[C++ Russia 2021](C++%20Russia%202021/)** (Fun with type erasure + dispatching data from abstract structure to function parameters)
