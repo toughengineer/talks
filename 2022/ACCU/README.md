@@ -34,6 +34,8 @@ We will examine several approaches, their profit, how can we make it better, and
 
 **Demos are [here](demo.md).**
 
+**Video: [https://www.youtube.com/<wbr>watch?v=e3GcXIHL8NA](https://www.youtube.com/watch?v=e3GcXIHL8NA)**
+
 **Slides:**
 * **[PDF](Fun%20with%20type%20erasure+dispatching%20data%20from%20abstract%20structure%20to%20function%20parameters%20in%20C++.pdf)**
 * **[PPTX](Fun%20with%20type%20erasure+dispatching%20data%20from%20abstract%20structure%20to%20function%20parameters%20in%20C++.pptx)**
