@@ -1,3 +1,5 @@
+**[C++ Russia 2022](2022/C++%20Russia/)** (Understanding C++ coroutines by example, part 2: generators)
+
 **[ACCU 2022](2022/ACCU/)** (Fun with type erasure + dispatching data from abstract structure to function parameters in C++)
 
 **[CPPP 2021](CPPP%202021/)** (Constructors and destructors: A few things you might want to know)
