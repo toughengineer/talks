@@ -11,7 +11,8 @@ This time we will concentrate on the _generators_ part of the coroutines.
 We'll get up to speed with how coroutines work under the hood, and then learn about the `co_yield` keyword, and how simple generators and asynchronous generators conceptually work.
 
 Description on the conference site:\
-[https://cppconf.ru/<wbr>en/<wbr>talks/<wbr>04bd86c2855550ff9a684918a534c152/](https://cppconf.ru/en/talks/04bd86c2855550ff9a684918a534c152/)
+[https://cppconf.ru/<wbr>en/<wbr>talks/<wbr>04bd86c2855550ff9a684918a534c152/](https://cppconf.ru/en/talks/04bd86c2855550ff9a684918a534c152/)\
+(and [in Russian](https://cppconf.ru/talks/04bd86c2855550ff9a684918a534c152/))
 
 **Slides:**
 * **[PDF](Understanding%20C++%20coroutines%20by%20example%202-generators.pdf)**
