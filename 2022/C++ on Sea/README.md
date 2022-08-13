@@ -15,6 +15,8 @@ We’ll figure out how to use coroutines _from the ground up_ by example of how 
 Description on the conference site:\
 [https://cpponsea.uk/<wbr>2022/<wbr>sessions/<wbr>understanding-cpp-coroutines-by-example-<wbr>part-1-online.html](https://cpponsea.uk/2022/sessions/understanding-cpp-coroutines-by-example-part-1-online.html)
 
+**Video: [https://www.youtube.com/<wbr>watch?v=tj0URCY_A1s](https://www.youtube.com/watch?v=tj0URCY_A1s)**
+
 **Slides:**
 * **[PDF](Understanding%20C++%20coroutines%20by%20example%201.pdf)**
 * **[PPTX](Understanding%20C++%20coroutines%20by%20example%201.pptx)**
@@ -26,6 +28,8 @@ We'll get up to speed with how coroutines work under the hood, and then learn ab
 
 Description on the conference site:\
 [https://cpponsea.uk/<wbr>2022/<wbr>sessions/<wbr>understanding-cpp-coroutines-by-example-<wbr>part-2-generators-online.html](https://cpponsea.uk/2022/sessions/understanding-cpp-coroutines-by-example-part-2-generators-online.html)
+
+**Video: [https://www.youtube.com/<wbr>watch?v=9p7obE9KRoU](https://www.youtube.com/watch?v=9p7obE9KRoU)**
 
 **Slides:**
 * **[PDF](Understanding%20C++%20coroutines%20by%20example%202-generators.pdf)**
