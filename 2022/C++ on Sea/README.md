@@ -23,7 +23,7 @@ Description on the conference site:\
 
 ### <a name="part2-generators"></a>Part 2: generators
 
-This time we will concentrate on the _generators_ part of the coroutines.  
+This time we will concentrate on the _generators_ part of the coroutines.\
 We'll get up to speed with how coroutines work under the hood, and then learn about the `co_yield` keyword, and how simple generators and asynchronous generators conceptually work.
 
 Description on the conference site:\
