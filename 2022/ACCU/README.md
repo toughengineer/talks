@@ -34,6 +34,9 @@ We will examine several approaches, their profit, how can we make it better, and
 
 **Demos are [here](demo.md).**
 
+Description on the conference site:\
+[https://accu.org/<wbr>conf-previous/<wbr>2022/<wbr>sessions/<wbr>fun-with-type-erasure/<wbr>session/](https://accu.org/conf-previous/2022/sessions/fun-with-type-erasure/session/)
+
 **Video: [https://www.youtube.com/<wbr>watch?v=e3GcXIHL8NA](https://www.youtube.com/watch?v=e3GcXIHL8NA)**
 
 **Slides:**
