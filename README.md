@@ -1,3 +1,5 @@
+**[CppCon 2022](2022/CppCon/)** (Understanding C++ coroutines by example, part 2: generators)
+
 **[C++ on Sea 2022](2022/C++%20on%20Sea/)** (Understanding C++ coroutines by example, [part 1](2022/C++%20on%20Sea/#part1) and [part 2: generators](2022/C++%20on%20Sea/#part2-generators))
 
 **[C++ Russia 2022](2022/C++%20Russia/)** (Understanding C++ coroutines by example, part 2: generators)
