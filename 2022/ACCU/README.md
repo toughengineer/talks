@@ -34,10 +34,10 @@ We will examine several approaches, their profit, how can we make it better, and
 
 **Demos are [here](demo.md).**
 
+**Video: [https://www.youtube.com/<wbr>watch?v=e3GcXIHL8NA](https://www.youtube.com/watch?v=e3GcXIHL8NA)**
+
 Description on the conference site:\
 [https://accu.org/<wbr>conf-previous/<wbr>2022/<wbr>sessions/<wbr>fun-with-type-erasure/<wbr>session/](https://accu.org/conf-previous/2022/sessions/fun-with-type-erasure/session/)
-
-**Video: [https://www.youtube.com/<wbr>watch?v=e3GcXIHL8NA](https://www.youtube.com/watch?v=e3GcXIHL8NA)**
 
 **Slides:**
 * **[PDF](Fun%20with%20type%20erasure+dispatching%20data%20from%20abstract%20structure%20to%20function%20parameters%20in%20C++.pdf)**

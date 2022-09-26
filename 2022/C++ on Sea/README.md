@@ -12,10 +12,10 @@ There is a chance standard primitives will be added to C++23 so all the machiner
 
 We’ll figure out how to use coroutines _from the ground up_ by example of how to work with asynchronous tasks. You'll learn about `co_await` and `co_return` keywords, "magical" transformations of coroutine code done by the compiler, and some basic challenges and best practices.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=tj0URCY_A1s](https://www.youtube.com/watch?v=tj0URCY_A1s)**
+
 Description on the conference site:\
 [https://cpponsea.uk/<wbr>2022/<wbr>sessions/<wbr>understanding-cpp-coroutines-by-example-<wbr>part-1-online.html](https://cpponsea.uk/2022/sessions/understanding-cpp-coroutines-by-example-part-1-online.html)
-
-**Video: [https://www.youtube.com/<wbr>watch?v=tj0URCY_A1s](https://www.youtube.com/watch?v=tj0URCY_A1s)**
 
 **Slides:**
 * **[PDF](Understanding%20C++%20coroutines%20by%20example%201.pdf)**
@@ -26,10 +26,10 @@ Description on the conference site:\
 This time we will concentrate on the _generators_ part of the coroutines.\
 We'll get up to speed with how coroutines work under the hood, and then learn about the `co_yield` keyword, and how simple generators and asynchronous generators conceptually work.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=9p7obE9KRoU](https://www.youtube.com/watch?v=9p7obE9KRoU)**
+
 Description on the conference site:\
 [https://cpponsea.uk/<wbr>2022/<wbr>sessions/<wbr>understanding-cpp-coroutines-by-example-<wbr>part-2-generators-online.html](https://cpponsea.uk/2022/sessions/understanding-cpp-coroutines-by-example-part-2-generators-online.html)
-
-**Video: [https://www.youtube.com/<wbr>watch?v=9p7obE9KRoU](https://www.youtube.com/watch?v=9p7obE9KRoU)**
 
 **Slides:**
 * **[PDF](Understanding%20C++%20coroutines%20by%20example%202-generators.pdf)**
