@@ -9,6 +9,10 @@ Also there are now best practices regarding usage of coroutines in C++ that emer
 This time we will concentrate on the _generators_ part of the coroutines.\
 We'll get up to speed with how coroutines work under the hood, and then learn about the `co_yield` keyword, and how simple generators and asynchronous generators conceptually work.
 
+**Video**\
+hour 1: **[https://www.youtube.com/<wbr>watch?v=lm10Cj-HNKQ](https://www.youtube.com/watch?v=lm10Cj-HNKQ)**\
+hour 2: **[https://www.youtube.com/<wbr>watch?v=lz3F036_OvU](https://www.youtube.com/watch?v=lz3F036_OvU)**
+
 Description on the conference site:\
 [https://cppcon.digital-medium.co.uk/<wbr>session/<wbr>2022/<wbr>understanding-cpp-coroutines-by-example-1/](https://cppcon.digital-medium.co.uk/session/2022/understanding-cpp-coroutines-by-example-1/)
 
