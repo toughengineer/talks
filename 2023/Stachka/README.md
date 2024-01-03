@@ -11,7 +11,7 @@ In contrast to universally used pointer or reference semantics, in this case the
 The _idea_ behind a value wrapper was thoroughly discussed by Jonathan Boccara in his keynote at Meeting C++ 2020 [here](https://www.youtube.com/watch?v=mU_n_ohIHQk).
 
 Description on the conference site:\
-[https://nastachku.ru/<wbr>fun-with-type-erasure-delaem-obertku-s-semantikoy-znacheniya-dlya-polimorfnyh-tipov](https://nastachku.ru/fun-with-type-erasure-delaem-obertku-s-semantikoy-znacheniya-dlya-polimorfnyh-tipov)
+[https://nastachku.ru/<wbr>fun-with-type-erasure-delaem-obertku-s-semantikoy-znacheniya-dlya-polimorfnyh-tipov](https://nastachku.ru/fun-with-type-erasure-delaem-obertku-s-semantikoy-znacheniya-dlya-polimorfnyh-tipov) (broken)
 
 **Slides:**
 * **[PDF](Fun%20with%20type%20erasure-implementing%20a%20value%20wrapper%20for%20polymorphic%20types.pdf)**
