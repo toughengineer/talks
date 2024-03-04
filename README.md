@@ -1,3 +1,5 @@
+**[C++ Online 2024](2024/C++%20Online/)** (`flat_map` Who needs them? They're just like `std::map`. We all have them.)
+
 **[Stachka 2023](2023/Stachka/)** (Fun with type erasure: implementing a value wrapper for polymorphic types)
 
 **[C++ Russia 2023](2023/C++%20Russia/)** (`flat_map` Who needs them? They're just like `std::map`. We all have them.)
