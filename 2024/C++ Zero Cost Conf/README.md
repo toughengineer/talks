@@ -1,4 +1,4 @@
-# C++ Zero Cost Conf
+# C++ Zero Cost Conf 2024
 
 ## JSON in C++: escaping and serialization
 

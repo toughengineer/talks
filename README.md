@@ -1,3 +1,5 @@
+**[C++ Zero Cost Conf 2024](2024/C++%20Zero%20Cost%20Conf/)** (JSON in C++: escaping and serialization)
+
 **[C++ Russia 2024](2024/C++%20Russia/)** (JSON in C++: designing a type for working with JSON values)
 
 **[C++ Online 2024](2024/C++%20Online/)** (`flat_map` Who needs them? They're just like `std::map`. We all have them.)
