@@ -13,6 +13,8 @@ In this talk we will
 
 In the end you should get a good understanding of what a `flat_map` _is_, and in what situations you should use it.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=qIjA4JpFA7w](https://www.youtube.com/watch?v=qIjA4JpFA7w)**
+
 Description on the conference site:\
 [https://cpponline.uk/<wbr>session/<wbr>flat_map<wbr>who-needs-them-<wbr>theyre-just-like-stdmap-<wbr>we-all-have-them/](https://cpponline.uk/session/flat_mapwho-needs-them-theyre-just-like-stdmap-we-all-have-them/)
 
