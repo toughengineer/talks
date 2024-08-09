@@ -14,6 +14,8 @@ Looking at JSON serialization/stringification we'll touch:
 
 And a bit more.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=1THwOpon4vg](https://www.youtube.com/watch?v=1THwOpon4vg)**
+
 **Slides:**
 * **[PDF](JSON in C++-escaping and serialization.pdf)**
 * **[PPTX](JSON in C++-escaping and serialization.pptx)**
