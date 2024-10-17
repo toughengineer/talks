@@ -13,7 +13,7 @@ In this talk we will
 
 In the end you should get a good understanding of what a `flat_map` _is_, and in what situations you should use it.
 
-**Video: [https://www.youtube.com/<wbr>watch?v=0vkLpuxgL-c](https://www.youtube.com/watch?v=0vkLpuxgL-c)**
+**Video: [https://www.youtube.com/<wbr>watch?v=0vkLpuxgL-c](https://www.youtube.com/watch?v=0vkLpuxgL-c) (in Russian)**
 
 Description on the conference site:\
 [https://cppconf.ru/<wbr>en/<wbr>talks/<wbr>cddda62654954de58cb10f1bae877925/](https://cppconf.ru/en/talks/cddda62654954de58cb10f1bae877925/)\
