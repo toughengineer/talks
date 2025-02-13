@@ -1,4 +1,4 @@
-# C++ Russia 2024
+# C++ Online 2025
 
 ## JSON in C++: designing a type for working with JSON values
 
@@ -12,11 +12,8 @@ Along the way, we'll hit a few bumps on the standard library implementations and
 
 After the talk, among other things, you will have a good idea of how to cook `std::variant`.
 
-**Video: [https://www.youtube.com/<wbr>watch?v=-JjE5AhfhcM](https://www.youtube.com/watch?v=-JjE5AhfhcM) (in Russian)**
-
 Description on the conference site:\
-[https://cppconf.ru/<wbr>en/<wbr>talks/<wbr>79bced96b2654180b826771af1c88fbf/](https://cppconf.ru/en/talks/79bced96b2654180b826771af1c88fbf/)\
-(and [in Russian](https://cppconf.ru/talks/79bced96b2654180b826771af1c88fbf/))
+[https://cpponline.uk/<wbr>session/<wbr>2025/<wbr>json-in-cpp/](https://cpponline.uk/session/2025/json-in-cpp/)
 
 **Slides:**
 * **[PDF](JSON in C++-value type.pdf)**
