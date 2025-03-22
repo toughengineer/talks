@@ -1,3 +1,5 @@
+**[C++ Russia 2025](2025/C++%20Russia/)** (Fun with type erasure: implementing a value wrapper for polymorphic types)
+
 **[C++ Online 2025](2025/C++%20Online/)** (JSON in C++: designing a type for working with JSON values)
 
 **[C++ Zero Cost Conf 2024](2024/C++%20Zero%20Cost%20Conf/)** (JSON in C++: escaping and serialization)
