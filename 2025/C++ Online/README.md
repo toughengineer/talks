@@ -12,6 +12,8 @@ Along the way, we'll hit a few bumps on the standard library implementations and
 
 After the talk, among other things, you will have a good idea of how to cook `std::variant`.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=uKkY-4hBFUU](https://www.youtube.com/watch?v=uKkY-4hBFUU)**
+
 Description on the conference site:\
 [https://cpponline.uk/<wbr>session/<wbr>2025/<wbr>json-in-cpp/](https://cpponline.uk/session/2025/json-in-cpp/)
 
