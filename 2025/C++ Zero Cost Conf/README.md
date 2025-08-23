@@ -13,6 +13,8 @@ We'll look at serialization and discuss:
 
 And a bit more.
 
+**Video: [https://www.youtube.com/<wbr>watch?v=GKlZGbbsaVc](https://www.youtube.com/watch?v=GKlZGbbsaVc) (in Russian)**
+
 **Slides:**
 * **[PDF](JSON in C++-serialization.pdf)**
 * **[PPTX](JSON in C++-serialization.pptx)**
