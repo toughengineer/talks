@@ -17,8 +17,8 @@ And other nuances of the C++ standard library implementation.
 **Video: [https://www.youtube.com/<wbr>watch?v=2XsLJ34hzuU](https://www.youtube.com/watch?v=2XsLJ34hzuU) (in Russian)**
 
 Description on the conference site:\
-[https://2019.cppconf-piter.ru/<wbr>en/<wbr>2019/<wbr>spb/<wbr>talks/<wbr>2hszmavsupvfkuxtix5hxj/](https://2019.cppconf-piter.ru/en/2019/spb/talks/2hszmavsupvfkuxtix5hxj/)\
-(and [in Russian](https://2019.cppconf-piter.ru/2019/spb/talks/2hszmavsupvfkuxtix5hxj/))
+[https://cppconf.ru/<wbr>en/<wbr>archive/<wbr>2019%20Piter/<wbr>talks/<wbr>10001323-insights-into-the-c-standard-library/](https://cppconf.ru/en/archive/2019%20Piter/talks/10001323-insights-into-the-c-standard-library/)\
+(and [in Russian](https://cppconf.ru/archive/2019%20Piter/talks/10001323-insights-into-the-c-standard-library/))
 
 **Slides:**
 * **[PDF](Insights%20into%20the%20C++%20standard%20library.pdf)**
